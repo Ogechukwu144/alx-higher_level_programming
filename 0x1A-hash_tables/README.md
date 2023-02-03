@@ -1,1 +1,1 @@
-Tasks on Hash Tables alias associative arrays
+Tasks on Hash Tables
